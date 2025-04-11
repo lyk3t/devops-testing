@@ -6,3 +6,7 @@ trying an AI generated bootcamp for basic devops trainings of teams
 
 
 testing stuff
+\n## Day 2: Git Branching
+- Branching, PRs, merging
+\n## Day 3: Linux Basics
+- Learned: process mgmt, permissions, basic scripting
